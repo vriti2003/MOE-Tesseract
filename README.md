@@ -5,5 +5,5 @@ Recognizing ancient Devanagari manuscripts remains an open challenge in document
 
 **Dataset:** (Dataset Link to paper will be provided soon)
 
-[![Paper Status](https://img.shields.io/badge/Paper-Accepted_(_ICDAR HIP_2026_)-success)](https://arxiv.org/your-link) <br>
+[![Paper Status](https://img.shields.io/badge/Paper-Accepted_(_ICDAR_HIP_2026_)-success)](https://arxiv.org/your-link) <br>
 (Link to paper will be provided soon)
